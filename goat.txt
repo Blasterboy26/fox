@@ -3,4 +3,8 @@ jhs
 kakatiya senior college
 brilliant college
 A LOT in this years
+<<<<<<< HEAD
 hli
+=======
+see you later
+>>>>>>> 355a8c7a337013bb02c93ebd840a820af80e2cfd
